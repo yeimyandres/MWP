@@ -25,8 +25,9 @@
 			<form action="registrarcaso.php" method="post">
 				<select name="cbotiposequipo" id="cbotiposequipo">
 					<option value="0">Seleccione Tipo de Equipo</option>
-					<option value="1">CPU</option>
-					<option value="2">Portátil</option>
+					<option value="1">Escritorio</option>
+					<option value="2">Impresora</option>
+					<option value="3">Portátil</option>
 				</select>
 				<select name="cbomarcas" id="cbomarcas">
 					<option value="0">Seleccione marca del equipo</option>
@@ -37,7 +38,9 @@
 					<option value="5">Dell</option>
 					<option value="6">HP</option>
 					<option value="7">Lenovo</option>
-					<option value="8">Clon</option>
+					<option value="8">Toshiba</option>
+					<option value="9">Otra Marca</option>
+					<option value="10">Clon</option>
 				</select>
 				<input type="text" placeholder="modelo del equipo" />
 				<input type="text" placeholder="número de serie del equipo" />
