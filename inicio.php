@@ -22,8 +22,8 @@
 
 		<section>
 			<article>
-				<h2>Plataforma de mantenimiento</h2>
-				<p>Bienvenido, seleccione una de las opciones del menú para empezar</p>
+				<h2></h2>
+				<p><a href=""></a></p>
 			</article>
 		</section>
 
@@ -32,14 +32,5 @@
 		</footer>
 
 	</body>
-
-	<script type="text/javascript" src="./js/jquery-1.11.2.min.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$(".menumovil").click(function(event){
-				$(".menunormal").slideToggle(400);
-			});
-		});
-	</script>
 
 </html>

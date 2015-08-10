@@ -1,6 +1,6 @@
+<h1>Proyecto MWP</h1>
 <figure>
-	<a href="./">
+	<a href="./inicio.php">
 		<img src="./img/sitio/logo.png" alt="MWP">
 	</a>
 </figure>
-<h1>Proyecto MWP - Beta</h1>

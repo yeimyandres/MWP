@@ -1,2 +1,2 @@
-<p>Plataforma creada por WEBPro Soluciones</p>
-<p>Cali - Valle del Cauca - 2015</p>
+<p class="pie">Desarrollado por WPSoluciones</p>
+<p class="pie">2015 - Cali</p>
